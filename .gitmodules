@@ -1,0 +1,3 @@
+[submodule "Back-End"]
+	path = Back-End
+	url = https://github.com/aisu-programming/NTNU-Second-Hand-Bookstore-Backend.git
