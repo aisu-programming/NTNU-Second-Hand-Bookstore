@@ -4,3 +4,4 @@
 [submodule "Front-End"]
 	path = Front-End
 	url = https://github.com/eoleedi/NTNU-Second-Hand-Bookstore-Frontend.git
+	branch = Aisu
